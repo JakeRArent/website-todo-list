@@ -1,0 +1,19 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "\"Website Todo list task in class\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"we need to add testing here\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JakeRArent/website-todo-list.git"
+  },
+  "author": "Jake Arent <arentjake92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeRArent/website-todo-list/issues"
+  },
+  "homepage": "https://github.com/JakeRArent/website-todo-list#readme"
+}
