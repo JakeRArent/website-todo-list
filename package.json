@@ -4,7 +4,8 @@
   "description": "\"Website Todo list task in class\"",
   "main": "index.js",
   "scripts": {
-    "test": "\"we need to add testing here\""
+    "test": "\"we need to add testing here\"",
+    "start": "npm browser-sync start"
   },
   "repository": {
     "type": "git",
